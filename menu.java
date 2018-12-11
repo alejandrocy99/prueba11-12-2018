@@ -16,7 +16,7 @@ public class menu {
 	   
    
    op = sc.nextInt();
-  
+  //aqui utilizando un switch y pidiendo desde teclado la variable op segun el caso//   
    switch(op) {
             
      case 1:
